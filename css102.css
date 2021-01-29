@@ -1,0 +1,27 @@
+.box{
+    margin: 20px;
+    padding:20px;
+    border: solid black 3px;
+    border-radius: 5px;
+}
+#div1{
+    background-color: springgreen;
+}
+#div2{
+    background-color: steelblue;
+}
+#div3{
+    background-color:yellow;
+}
+ li{
+     font-weight: bold;
+ }
+ ul>li{
+     color: blue;
+ }
+ ol>li{
+     color: brown;
+ }
+ ul li{
+     font-style: italic;
+ }

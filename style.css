@@ -1,0 +1,33 @@
+.sona{
+    height: 150px;
+    width: 200px;
+    color:sandybrown;
+    background-color: skyblue;
+    font-size: large;
+    font-style: italic;
+     
+    padding-top: 50px;
+    text-align: center;
+}
+.sona:hover{
+    background-color: darkslategrey;
+    color: springgreen;
+    font-weight: bold;
+}
+.sona:active{
+
+    height: 200px;
+    width: 350;
+    font: outline;
+    font-size: .5in;
+
+ 
+
+}
+input:focus{
+    font-size: large;
+    width: 100px;
+    height:150px;
+    color: red;
+    background-color: saddlebrown;
+}
